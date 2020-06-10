@@ -1,7 +1,7 @@
 # personalised-press-mailing-service
 ## About
-Engine webscraping articles from multiple websites.<br\>
-User choose his favourite newspapers and get personalised press briefieng every morning.
+Engine webscraping articles from multiple websites.  
+User choose his favourite newspapers and get personalised press briefieng every morning.  
 ## Technology
 In order to achive this goal, I use multiple python packages like:
 * BeautifulSoup (scraping)
