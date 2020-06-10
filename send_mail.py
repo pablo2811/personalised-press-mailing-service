@@ -17,7 +17,7 @@ class MailSender:
 
     def __init__(self):
         self.me = "dailypressbriefing@gmail.com"
-        self.password = "prasaprasa123"
+        self.password = "XXXXXXXXXX"
         self.template = "mail.html"
         self.pages = ["wyborcza","nytimes","theguardian","bussinesinsider","przegladsportowy","nature","theeconomist","onet","reuters","washingtonpost","tygodnikpowszechny","rzeczpospolita","dailymail","thetelegraph","financialtimes"]
         self.links = self.get_links()
