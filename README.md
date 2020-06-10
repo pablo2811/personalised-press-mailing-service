@@ -10,7 +10,7 @@ In order to achive this goal, I use multiple python packages like:
 * jinja2, markdown2 and email (creating, reading and compressing pretty html's)
 * many many more
 ## Looks
-![looks](press-looks.JPG)
+![looks](press-look.PNG)
 ## Author
 Paweł Fijałkowski, Data Science, Warsaw University of Technology.
 @mailto: fijalkowskipablo@gmail.com
