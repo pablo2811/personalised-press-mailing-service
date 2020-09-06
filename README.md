@@ -12,5 +12,7 @@ In order to achive this goal, I use multiple python packages like:
 ## Looks
 ![looks](press-look.PNG)
 ## Author
-Paweł Fijałkowski, Data Science, Warsaw University of Technology.
+Paweł Fijałkowski
+Data Science, Warsaw University of Technology.
+Computer Science, University of Warsaw.
 @mailto: fijalkowskipablo@gmail.com
