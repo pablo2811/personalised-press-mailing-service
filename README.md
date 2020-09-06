@@ -14,8 +14,8 @@ In order to achive this goal, I use multiple python packages like:
 ## Author
 Paweł Fijałkowski
 
-Data Science, Warsaw University of Technology.
+Computer Science, University of Warsaw. (https://www.mimuw.edu.pl/)
 
-Computer Science, University of Warsaw.
+Data Science, Warsaw University of Technology. (https://ww2.mini.pw.edu.pl/)
 
 @mailto: fijalkowskipablo@gmail.com
